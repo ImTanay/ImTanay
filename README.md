@@ -44,7 +44,6 @@
 - Semantic Web Technologies
 - Mobile and Web Applications Development
 
----
 
 ## PROJECTS
 
@@ -54,9 +53,9 @@
 - [Medical Facility Tracker](http://coronabeds.cf/)
 - [ISIC'2020 Website](https://sonikamalik.netlify.app/)
 
----
 
-### Latest Blogs and Articles
+
+## Latest Blogs and Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
