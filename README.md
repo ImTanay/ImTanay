@@ -11,6 +11,7 @@
 - Featured in Hindustan Times and India Today newspapers.
 - Accepted in TU Berlin summer university program.
 
+## EXPERTISE 
 
 ### Cloud Technologies: 
 
@@ -43,8 +44,15 @@
 - Semantic Web Technologies
 - Mobile and Web Applications Development
 
-<br />
+---
 
+## PROJECTS
+
+- [Link It Up!](https://linkitup.cf/)
+- [COVID-19 Vaccine Slot Checker](http://cowin.gq/)
+- [COPAL 19](http://copal19.org/)
+- [Medical Facility Tracker](http://coronabeds.cf/)
+- [ISIC'2020 Website](https://sonikamalik.netlify.app/)
 
 ---
 
