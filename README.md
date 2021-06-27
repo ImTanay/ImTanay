@@ -12,20 +12,20 @@
 - Accepted in TU Berlin summer university program.
 
 
-#### Cloud Technologies: 
+### Cloud Technologies: 
 
 - AWS
 - Google Cloud
 - Microsoft Azure
 - Oracle
 
-#### Data-Bases: 
+### Data-Bases: 
 
 - SQL
 - MySQL 
 - MongoDB
 
-#### Programming Languages: 
+### Programming Languages: 
 
 - Python
 - JavaScript
@@ -35,7 +35,7 @@
 - R
 - PHP
 
-#### Technologies:
+### Technologies:
 
 - Machine Learning
 - Explainable Artificial Intelligence
