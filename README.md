@@ -1,6 +1,6 @@
 ### Hi, I'm [Tanay Aggarwal][website] 👋
 
-[![Website](https://img.shields.io/website?down_color=RED&down_message=DOWN&label=tanayaggarwal.me&style=for-the-badge&up_color=%2318C135&up_message=LIVE&url=https%3A%2F%2Ftanayaggarwal.me)](https://tanayaggarwal.me)
+[![Website](https://img.shields.io/website?down_color=RED&down_message=DOWN&label=tanayaggarwal.me&style=for-the-badge&up_color=%2318C135&up_message=LIVE&url=https%3A%2F%2Ftanayaggarwal.com)](https://tanayaggarwal.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ImTanayAggarwal?style=social)](https://twitter.com/ImTanayAggarwal)
 
