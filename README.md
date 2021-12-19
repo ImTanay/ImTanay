@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=OFFINE&label=WWW.TANAYAGGARWAL.COM&style=for-the-badge&up_color=green&up_message=LIVE&url=https%3A%2F%2Fwww.tanayaggarwal.com%2F)](https://tanayaggarwal.com)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ImTanayAggarwal?style=social)](https://twitter.com/ImTanayAggarwal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanayaggarwal_?style=social)](https://twitter.com/tanayaggarwal_)
 
 ## I'm a A computer science undergrad, young entrepreneur and tech enthusiast!
 
