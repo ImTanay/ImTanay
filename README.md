@@ -47,10 +47,10 @@
 
 ## PROJECTS
 
-- [Link It Up!](https://linkitup.cf/)
-- [COVID-19 Vaccine Slot Checker](http://cowin.gq/)
+- [Link It Up!](#)
+- [COVID-19 Vaccine Slot Checker](https://cowin.tanayaggarwal.com)
 - [COPAL 19](http://copal19.org/)
-- [Medical Facility Tracker](http://coronabeds.cf/)
+- [Medical Facility Tracker](http://coronabeds.tanayaggarwal.com)
 - [ISIC'2020 Website](https://sonikamalik.netlify.app/)
 
 
@@ -67,4 +67,4 @@
 
 
 
-[website]: https://www.tanayaggarwal.me/
+[website]: https://www.tanayaggarwal.com/
